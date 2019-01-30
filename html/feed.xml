@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="2.0">
+
+<channel>
+<title>PaisajesPorEspaña</title> 
+<link>https:/duodeasir.github.io/123/html/index.html</link> 
+<description>En este sitio web se puede encontrar todo tipo de informacíon acerca de los lugares más fascinantes de España.</description> 
+<language>es-ES</language>
+<webMaster>jesus3jjj@gmail.com</webMaster>
+
+<item>
+<title>Imágenes de la Península</title> 
+<link>https:/duodeasir.github.io/123/html/imagenes_peninsula.html</link> 
+<description>Este apartado está dedicado únicamente a paisajes de la Península.</description> 
+<category>Paisajes</category>
+</item>
+
+
+<item>
+<title>Imágenes de las Islas </title> 
+<link>https:/duodeasir.github.io/123/html/imagenes_islas.html</link> 
+<description>En este apartado podemos encontrar información acerca de los paisajes más bellos tanto de las Islas Canarias como de las 
+Islas Baleares.</description> 
+<category>Paisajes</category>
+</item>
+
+<item>
+<title>Vídeos</title> 
+<link>https:/duodeasir.github.io/123/html/Videos.html</link> 
+<description>Apartado dedicado a vídeos de ciudades,capitales,playas...</description>
+<category>Videos</category> 
+</item>
+
+<item>
+<title>Contacto</title> 
+<link>https:/duodeasir.github.io/123/html/Contacto.html</link> 
+<description>Ante cualquier duda, contacte con nosotros de inmediato.</description> 
+<category>Contacto</category> 
+</item>
+
+
+</channel>
+</rss>
